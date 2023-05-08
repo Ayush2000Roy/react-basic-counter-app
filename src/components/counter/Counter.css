@@ -1,0 +1,28 @@
+body {
+    background-color: #282c34;
+    color: white;
+    text-align: center;
+    padding: 40px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    background-color: darkgreen;
+    border-radius: 20px;
+    border-color: antiquewhite;
+    padding: 10px 5px;
+    margin: 2px;
+    width: 80px;
+    font-size: 16px;
+    color: white;
+}
+
+.count {
+    padding: 20px;
+}
+
+.reset {
+    background-color: darkred;
+    width: 160px;
+}
