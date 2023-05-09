@@ -19,7 +19,7 @@ class Counter extends Component {
                 <CounterButton by={10} incrementMethod={this.increment} decrementMethod={this.decrement} />
                 <CounterButton by={20} incrementMethod={this.increment} decrementMethod={this.decrement} />
                 <span className='count'
-                    style={{ fontSize: "50px" }}>
+                    style={{ fontSize: "80px" }}>
                     {this.state.count}
                 </span>
                 <div>
